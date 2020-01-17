@@ -11,4 +11,5 @@ The datasets used for this script contain bike share data for the first six mont
 ## The Requests
 ![alt text](https://raw.githubusercontent.com/NidalShater/My-Udacity-Bikeshare-Project/master/req.jpg)
 
- 
+
+__NOTE: unzip dataset.zip to get all cities dataset before running the script
